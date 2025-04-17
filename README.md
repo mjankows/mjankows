@@ -1,6 +1,4 @@
-### Physics PhD student at Binghamton University. Will occasionally upload some cool stuff related to academic/personal work.
-### Current projects:
-### Personal page/e-resume
+### yeahhhhhh buddy
 
 <!--
 **mjankows/mjankows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
